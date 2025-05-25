@@ -1,0 +1,4 @@
+assemblyline-client
+fastmcp
+requests
+PyYAML
